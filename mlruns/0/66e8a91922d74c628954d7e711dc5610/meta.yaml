@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/mlproject-with-mlflow/mlruns/0/66e8a91922d74c628954d7e711dc5610/artifacts
+end_time: 1758201020651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66e8a91922d74c628954d7e711dc5610
+run_name: painted-boar-681
+run_uuid: 66e8a91922d74c628954d7e711dc5610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758201011057
+status: 3
+tags: []
+user_id: USER

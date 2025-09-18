@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/mlproject-with-mlflow/mlruns/0/fde2276ecf374f5aa77bce323c93a14f/artifacts
+end_time: 1758198686424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fde2276ecf374f5aa77bce323c93a14f
+run_name: mercurial-yak-67
+run_uuid: fde2276ecf374f5aa77bce323c93a14f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758198664805
+status: 3
+tags: []
+user_id: USER

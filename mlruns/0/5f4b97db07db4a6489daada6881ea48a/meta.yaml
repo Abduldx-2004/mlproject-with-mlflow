@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/mlproject-with-mlflow/mlruns/0/5f4b97db07db4a6489daada6881ea48a/artifacts
+end_time: 1758200940906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f4b97db07db4a6489daada6881ea48a
+run_name: defiant-crow-186
+run_uuid: 5f4b97db07db4a6489daada6881ea48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758200891783
+status: 3
+tags: []
+user_id: USER
